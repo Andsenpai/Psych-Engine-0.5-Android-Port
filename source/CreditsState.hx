@@ -74,6 +74,7 @@ class CreditsState extends MusicBeatState
 			['My channels'],
 			['qfkp',               'qp',               'idk',                                 'https://youtube.com/channel/UCA_jCE8eLoKpxycbFOxDLow',       'FF9300'],
 			['cuzx',               'cu',               'idk x2',                              'https://youtube.com/channel/UCbCcWVXKk7XGVMpPo6NMAqw',       'FF9300'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'FFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
